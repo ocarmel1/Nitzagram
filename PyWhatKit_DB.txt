@@ -1,0 +1,17 @@
+Date: 21/2/2023
+Time: 17:56
+Phone Number: +972548011331
+Image: Images\ronaldo.jpg
+Caption: Number of likes is 0.the location is bla bla bla.the description is ohad
+--------------------
+Date: 21/2/2023
+Time: 17:59
+Phone Number: +972548011331
+Image: Images\DSC_0320.JPG
+Caption: Number of likes is 0.the location is bla bla bla.the description is ohad
+--------------------
+Date: 21/2/2023
+Time: 18:1
+Phone Number: +972548011331
+Message: The content of the post is This is my first try!.Number of likes is 0.The location is Beer Sheva!.The description is Just trying to code
+--------------------

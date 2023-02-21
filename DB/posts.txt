@@ -1,0 +1,4 @@
+0|image|bla bla bla|ohad|8|Images\DSC_0320.JPG
+1|image|bla bla bla|ohad|5|Images\noa_kirel.jpg
+2|image|bla bla bla|ohad|3|Images\ronaldo.jpg
+3|text|Beer Sheva!|Just trying to code|0
