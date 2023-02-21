@@ -45,7 +45,7 @@ def main():
     current_index = 0
     # current_post = posts_list[current_index]
 
-
+    print("hey")
     # assign directory
     directory = 'Images'
 
