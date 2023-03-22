@@ -11,6 +11,7 @@ import os
 
 
 def censor(bad_words_list , comment):
+    print(2)
     words_array = comment.split()
     new_string = ""
     for word in words_array:
