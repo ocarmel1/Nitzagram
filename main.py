@@ -12,6 +12,7 @@ import os
 
 def censor(bad_words_list , comment):
     print(1)
+    print(2)
     words_array = comment.split()
     new_string = ""
     for word in words_array:
@@ -19,11 +20,8 @@ def censor(bad_words_list , comment):
             new_string = new_string + word + " "
         else:
             new_string = new_string + "*"*len(word) + " "
-    # for word in comment.split():
-    #     if word in bad_words_list:
-    #         word = "*"*len(word)
-    # print(comment)
-    # return comment
+
+    return  new_string
 
 
 def main():
